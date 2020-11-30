@@ -1,0 +1,2 @@
+# basit_Python
+ isu
