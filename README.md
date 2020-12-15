@@ -1,3 +1,3 @@
-![python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png)
+![python](https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
 # basit_Python
 # isu - Derslerde ve ödevlerde yaptığım basit programlar.
