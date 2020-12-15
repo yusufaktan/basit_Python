@@ -1,3 +1,3 @@
-![python](https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
+![python](https://logos-download.com/wp-content/uploads/2016/10/Python_logo_wordmark.png)
 # basit_Python
 # isu - Derslerde ve ödevlerde yaptığım basit programlar.
